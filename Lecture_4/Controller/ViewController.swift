@@ -37,7 +37,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     }
     
     /// small comment for git
-    
+    /// checking xcode funcitonality
     
 }
 
